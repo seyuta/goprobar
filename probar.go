@@ -5,6 +5,7 @@ import (
 	"strings"
 )
 
+// The first iteration must be with the int 1
 func ProgressBar(iteration, total int) {
 	var (
 		end    = ">"
