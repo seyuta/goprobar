@@ -1,5 +1,7 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/seyuta/goprobar)](https://goreportcard.com/report/github.com/seyuta/goprobar)
 # GoProBar
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/seyuta/goprobar)](https://goreportcard.com/report/github.com/seyuta/goprobar)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/seyuta/goprobar)](https://pkg.go.dev/github.com/seyuta/goprobar)
 
 GoProBar is a simple rendering progress bar in terminal application / CLI
 
